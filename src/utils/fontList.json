@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "font-family": "Josefin Sans, sans-serif"
+    },
+    {
+        "id": 2,
+        "font-family": "Verdana, Geneva, Tahoma, sans-serif"
+    },
+    {
+        "id": 3,
+        "font-family": "Playfair Display, serif"
+    },
+    {
+        "id": 4,
+        "font-family": "Roboto, sans-serif"
+    },
+    {
+        "id": 5,
+        "font-family": "Montserrat Alternates, sans-serif"
+    }
+]
